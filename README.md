@@ -79,8 +79,6 @@ seamcarving-wasm-app/
 │   ├── seamcarving.c      # Core seam carving algorithm
 │   ├── c_img.c           # Image processing utilities
 │   └── build_wasm.sh     # WebAssembly build script
-└── public/               # Static assets
-    └── wasm/            # Compiled WebAssembly files
 ```
 
 ## Getting Started
