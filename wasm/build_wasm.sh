@@ -1,3 +1,7 @@
+'''
+This Bash script compiles a C source file (seamcarving_wasm.c) into a WebAssembly (WASM) module using Emscripten (emcc), 
+enabling the C functions to be used in a web application via JavaScript.
+'''
 #!/bin/bash
 
 # Check if Emscripten is installed
